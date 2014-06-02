@@ -6,9 +6,8 @@ A meta.xml generator for Multi Theft Auto: San Andreas (fully automatic)
 To run:
 cmd.exe -> java -jar Generator.jar [options]
 
-Options:
-Usage: generator.jar [options] <Eingabeordner>
-  Options:
+    Usage: generator.jar [options] <Eingabeordner>
+      Options:
     -author
        Der Author der Ressource
        Default: Unknow
