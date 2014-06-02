@@ -15,7 +15,7 @@ cmd.exe -> java -jar Generator.jar [options]
        Script-Dateien Cachen
        Default: false
     -clientfolder
-       Ordner mit den Client-Dateien, z.B. 'client/'
+       Ordner mit den Client-Dateien, z.B. 'client'
        Default: client
     -defaultdownload
        Standartwert fuer die Download-Dateien
@@ -45,7 +45,7 @@ cmd.exe -> java -jar Generator.jar [options]
        OOP Aktivieren?
        Default: true
     -serverfolder
-       Ordner mit den Server-Dateien, z.B. 'server/'
+       Ordner mit den Server-Dateien, z.B. 'server'
        Default: server
     -syncmap
        Sychronisation der Elementdatas fuer Map-Objekte aktivieren
