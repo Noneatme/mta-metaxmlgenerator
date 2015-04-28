@@ -1,7 +1,7 @@
 mta-metaxmlgenerator
 ====================
 
-A meta.xml generator for Multi Theft Auto: San Andreas (fully automatic)
+A meta.xml generator for Multi Theft Auto: San Andreas (full automatic)
 
 To run:
 cmd.exe -> java -jar Generator.jar [options]
